@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://gj.muchon.co.kr/sitemap.xml
